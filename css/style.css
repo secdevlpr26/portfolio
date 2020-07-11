@@ -61,7 +61,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
-  text-align: left;
+  text-align: justify;
   background-color: #fff; }
 
 .top-container {
@@ -114,6 +114,30 @@ body {
 /* ------------------------------------------------------------------- 
  * ## go to top
  * ------------------------------------------------------------------- */
+@media screen and (max-width : 906px){
+ .cl-go-top {
+  visibility: hidden;
+  }
+ .cl-go-top a {
+  visibility: hidden;
+  }
+  .cl-go-top a i {
+  visibility: hidden;
+  }
+  .cl-go-top a:hover,
+.cl-go-top a:focus {
+  visibility: hidden;
+  }
+.cl-go-top::before {
+  visibility: hidden;
+  }
+.cl-go-top::after {
+  visibility: hidden;
+  }
+.menu-is-open .cl-go-top {
+  visibility: hidden;
+  }
+}
 .cl-go-top {
   z-index: 600;
   position: absolute;
