@@ -106,6 +106,10 @@ body {
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
+.skill-margin {
+  margin-right: 90px!important;
+  margin-left: 90px!important; }
+
 
 /* ------------------------------------------------------------------- 
  * ## go to top
