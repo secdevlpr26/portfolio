@@ -120,22 +120,27 @@ body {
   }
  .cl-go-top a {
   visibility: hidden;
+  display: none;
   }
   .cl-go-top a i {
   visibility: hidden;
+  display: none;
   }
   .cl-go-top a:hover,
 .cl-go-top a:focus {
   visibility: hidden;
+  display: none;
   }
 .cl-go-top::before {
   visibility: hidden;
   }
 .cl-go-top::after {
   visibility: hidden;
+  display: none;
   }
 .menu-is-open .cl-go-top {
   visibility: hidden;
+  display: none;
   }
 }
 .cl-go-top {
