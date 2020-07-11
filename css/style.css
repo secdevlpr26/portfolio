@@ -67,6 +67,7 @@ body {
   -webkit-hyphens: auto!important;
   -ms-hyphens: auto!important;
   hyphens: auto!important;
+  white-space: normal;
   background-color: #fff; }
 
 .top-container {
