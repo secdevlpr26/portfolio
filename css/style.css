@@ -568,6 +568,12 @@ pre {
   max-height: 340px;
   overflow-y: scroll; }
 
+@media screen and (max-width: 320px){
+       #wrap { 
+        width: 320px!important; 
+       }
+}
+
 .container {
   width: 100%;
   padding-right: 15px;
