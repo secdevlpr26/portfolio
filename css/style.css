@@ -62,6 +62,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: justify;
+  hyphens: auto;
   background-color: #fff; }
 
 .top-container {
