@@ -61,12 +61,12 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
-  text-align: justify;
-  margin-left: auto;
-  margin-right: auto;
-  -webkit-hyphens: auto;
-  -ms-hyphens: auto;
-  hyphens: auto;
+  text-align: justify!important;
+  margin-left: auto!important;
+  margin-right: auto!important;
+  -webkit-hyphens: auto!important;
+  -ms-hyphens: auto!important;
+  hyphens: auto!important;
   background-color: #fff; }
 
 .top-container {
