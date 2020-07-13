@@ -150,6 +150,7 @@ p {
 .sectionwise-headings {
   font-size: 1.65rem!important;
 }
+.education-section { margin-top: 0px; }
 .ftco-footer-social {
   display: flex!important; }
 .projects-header {
@@ -9040,6 +9041,8 @@ textarea.form-control {
 	width: 2px; background: #ccc; }
 
 .education-wrapper .education{ position: relative; }
+
+.education-section { margin-top: 70px; }
 
 .education-wrapper .education:after{ content:''; position: absolute; top: 8px; left: -58px; width: 16px; 
 	height: 16px; border-radius: 10px; z-index: 1;
