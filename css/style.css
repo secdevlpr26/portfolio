@@ -114,33 +114,34 @@ body {
 
 
 /* ------------------------------------------------------------------- 
- * ## go to top
+ * ## go to top and image hidden for smaller screens
  * ------------------------------------------------------------------- */
 @media screen and (max-width : 906px){
  .cl-go-top {
-  visibility: hidden; }
+  display: none; }
  .cl-go-top a {
-  visibility: hidden;
   display: none;  }
   .cl-go-top a i {
-  visibility: hidden;
   display: none;  }
   .cl-go-top a:hover,
 .cl-go-top a:focus {
-  visibility: hidden;
   display: none; }
 .cl-go-top::before {
-  visibility: hidden;  }
+  display: none;  }
 .cl-go-top::after {
-  visibility: hidden;
   display: none;  }
 .menu-is-open .cl-go-top {
-  visibility: hidden;
   display: none;  }
 .col-md-4 {
-  visibility: hidden;
-  display: none; }
+  display: none;  }
+p {
+  font-size: 15px; }
+h3 {
+  font-size: 1.5rem; }
 }
+/* ------------------------------------------------------------------- 
+ * ## go to top 
+ * ------------------------------------------------------------------- */
 .cl-go-top {
   z-index: 600;
   position: absolute;
@@ -1056,9 +1057,7 @@ pre {
   .col-md-4 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 33.33333%;
-    flex: 0 0 33.33333%;
-    visbility: hidden;
-    display: none; }
+    flex: 0 0 33.33333%; }
   .col-md-5 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 41.66667%;
