@@ -118,32 +118,28 @@ body {
  * ------------------------------------------------------------------- */
 @media screen and (max-width : 906px){
  .cl-go-top {
-  visibility: hidden;
-  }
+  visibility: hidden; }
  .cl-go-top a {
   visibility: hidden;
-  display: none;
-  }
+  display: none;  }
   .cl-go-top a i {
   visibility: hidden;
-  display: none;
-  }
+  display: none;  }
   .cl-go-top a:hover,
 .cl-go-top a:focus {
   visibility: hidden;
-  display: none;
-  }
+  display: none; }
 .cl-go-top::before {
-  visibility: hidden;
-  }
+  visibility: hidden;  }
 .cl-go-top::after {
   visibility: hidden;
-  display: none;
-  }
+  display: none;  }
 .menu-is-open .cl-go-top {
   visibility: hidden;
-  display: none;
-  }
+  display: none;  }
+.col-md-4 {
+  visibility: hidden;
+  display: none; }
 }
 .cl-go-top {
   z-index: 600;
