@@ -4,27 +4,27 @@
 
 @media screen and (max-width : 906px){
 .skill-c {
-  opacity: 0.6; }
+  opacity: 0.6!important; }
 .skill-cplusplus {
-  opacity: 0.6; }
+  opacity: 0.6!important; }
 .skill-css {
-  opacity: 0.6; }
+  opacity: 0.6!important; }
 .skill-bootstrap {
-  opacity: 0.6; }
+  opacity: 0.6!important; }
 .skill-postgresql {
-  opacity: 0.6; }
+  opacity: 0.6!important; }
 .skill-html {
-  opacity: 0.6; }
+  opacity: 0.6!important; }
 .skill-android {
-  opacity: 0.6; }
+  opacity: 0.6!important; }
 .skill-py {
-  opacity: 0.6; }
+  opacity: 0.6!important; }
 .skill-git {
-  opacity: 0.6; }
+  opacity: 0.6!important; }
 .skill-java {
-  opacity: 0.6; }
+  opacity: 0.6!important; }
 .skill-pega {
-  opacity: 0.6; }
+  opacity: 0.6!important; }
 }
 .skill-icon {
   position: relative;
