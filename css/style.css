@@ -134,21 +134,27 @@ body {
   display: none; }
 .col-md-4 .author-img {
   display: none; }
-p .skill-text {
-  font-size: 15px; }
+p {
+  font-size: 15px!important; }
+.skill-text {
+  font-size: 15px!important; }
+.skill-ul {
+  overflow-x: hidden!important;
+  overflow-y: scroll;
+}
 .heading {
-  font-size: 1.5rem; }
+  font-size: 1.5rem!important; }
 body {
    height : 100%;
    overflow-y : scroll;
    overflow-x : hidden;
    -webkit-overflow-scrolling : touch; }
 .projects-header {
-  font-size: 1.5rem; }
+  font-size: 1.5rem!important; }
 .graduate-text {
-  font-size: 1.25rem; }
+  font-size: 1.25rem!important; }
 .papers-text {
-  font-size: 1rem; }
+  font-size: 1rem!important; }
 }
 /* ------------------------------------------------------------------- 
  * ## go to top 
@@ -230,8 +236,6 @@ body {
 .skill-ul {
   display: inline-block!important;
   list-style: none;
-  overflow-x: auto;
-  overflow-y: hidden;
   padding-right: 10px;
   padding-left: 10px; }
 
@@ -245,7 +249,7 @@ body {
   display: -webkit-box!important; }
 
 .skill-text {
-  font-color: #fff;
+  color: #fff;
   opacity: 0.8; }
 /* ------------------------------------------------------------------- 
  * ## Projects section
