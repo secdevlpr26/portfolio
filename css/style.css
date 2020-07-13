@@ -138,15 +138,17 @@ p {
   font-size: 15px; }
 .heading {
   font-size: 1.5rem; }
-h3 {
-  font-size: 1.5rem; }
-h4, h5 {
-  font-size: 1rem; }
 body {
    height : 100%;
    overflow-y : scroll;
    overflow-x : hidden;
    -webkit-overflow-scrolling : touch; }
+.projects-header {
+  font-size: 1.5rem; }
+.graduate-text {
+  font-size: 1.25rem; }
+.papers-text skill-text {
+  font-size: 1rem; }
 }
 /* ------------------------------------------------------------------- 
  * ## go to top 
