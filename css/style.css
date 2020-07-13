@@ -117,13 +117,13 @@ body {
  * ## go to top and image hidden for smaller screens
  * ------------------------------------------------------------------- */
 @media screen and (max-width : 906px){
- .cl-go-top .cl-go-top a {
+ .cl-go-top {
   display: none!important; }
-  {
-  display: none!important;  }
-  .cl-go-top a i {
+.cl-go-top a {
   display: none!important; }
-  .cl-go-top a:hover,
+.cl-go-top a i {
+  display: none!important; }
+.cl-go-top a:hover,
 .cl-go-top a:focus {
   display: none!important; }
 .cl-go-top::before {
