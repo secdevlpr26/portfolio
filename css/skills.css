@@ -30,6 +30,10 @@
   position: relative;
   width: 100%;	
 }
+/* ------------------------------------------------------------------- 
+ * ## skill icons display name on hover
+ * ------------------------------------------------------------------- */
+
 
 .skill-icon :hover .skill-overlay {
   opacity: 0.6;
