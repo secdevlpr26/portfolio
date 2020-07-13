@@ -1,6 +1,34 @@
+/* ------------------------------------------------------------------- 
+ * ## skill icons opacity in mobile
+ * ------------------------------------------------------------------- */
+
+@media screen and (max-width : 906px){
+.skill-c {
+  opacity: 0.6; }
+.skill-cplusplus {
+  opacity: 0.6; }
+.skill-css {
+  opacity: 0.6; }
+.skill-bootstrap {
+  opacity: 0.6; }
+.skill-postgresql {
+  opacity: 0.6; }
+.skill-html {
+  opacity: 0.6; }
+.skill-android {
+  opacity: 0.6; }
+.skill-py {
+  opacity: 0.6; }
+.skill-git {
+  opacity: 0.6; }
+.skill-java {
+  opacity: 0.6; }
+.skill-pega {
+  opacity: 0.6; }
+}
 .skill-icon {
   position: relative;
-  width: 50%;
+  width: 100%;	
 }
 
 .skill-icon :hover .skill-overlay {
@@ -59,3 +87,37 @@
 .skill-margin {
   margin-right: 90px!important;
   margin-left: 90px!important; }
+
+.skill-c {
+  font-size: 50px; 
+  color: rgb(3, 89, 156); }
+.skill-cplusplus {
+  font-size: 50px; 
+  color: rgb(156, 3, 58); }
+.skill-css {
+  font-size: 50px; 
+  color: rgb(21, 114, 182); }
+.skill-bootstrap {
+  font-size: 50px; 
+  color: rgb(91, 66, 130); }
+.skill-postgresql {
+  font-size: 50px; 
+  color: rgb(51, 103, 145); }
+.skill-html {
+  font-size: 50px; 
+  color: rgb(228, 77, 38); }
+.skill-android {
+  font-size: 50px; 
+  color: rgb(164, 196, 57); }
+.skill-py {
+  font-size: 50px; 
+  color: rgb(255, 216, 69); }
+.skill-git {
+  font-size: 50px; 
+  color: rgb(243, 79, 41); }
+.skill-java {
+  font-size: 50px; 
+  color: rgb(234, 45, 46); }
+.skill-pega {
+  width: 60px;
+  height: 60px; }
