@@ -118,37 +118,32 @@ body {
  * ------------------------------------------------------------------- */
 @media screen and (max-width : 906px){
  .cl-go-top .cl-go-top a {
-  display: none; }
+  display: none!important; }
   {
-  display: none;  }
+  display: none!important;  }
   .cl-go-top a i {
-  display: none; }
+  display: none!important; }
   .cl-go-top a:hover,
 .cl-go-top a:focus {
-  display: none; }
+  display: none!important; }
 .cl-go-top::before {
-  display: none;  }
+  display: none!important;  }
 .cl-go-top::after {
-  display: none;  }
+  display: none!important;  }
 .menu-is-open .cl-go-top {
-  display: none; }
+  display: none!important; }
 .col-md-4 .author-img {
-  display: none; }
+  display: none!important; }
 p {
   font-size: 15px!important; }
 .skill-text {
   font-size: 15px!important; }
 .skill-ul {
   overflow-x: hidden!important;
-  overflow-y: scroll;
+  overflow-y: scroll!important;
 }
 .heading {
   font-size: 1.5rem!important; }
-body {
-   height : 100%;
-   overflow-y : scroll;
-   overflow-x : hidden;
-   -webkit-overflow-scrolling : touch; }
 .projects-header {
   font-size: 1.5rem!important; }
 .graduate-text {
