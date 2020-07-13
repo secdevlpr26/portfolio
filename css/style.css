@@ -142,6 +142,16 @@ p {
   overflow-x: hidden!important;
   overflow-y: scroll!important;
 }
+.designation {
+  font-size: 1.25rem!important;
+}
+.span-section {
+  font-size: 1rem!important; }
+.sectionwise-headings {
+  font-size: 1.65rem!important;
+}
+.ftco-footer-social {
+  display: flex!important; }
 .heading {
   font-size: 1.5rem!important; }
 .projects-header {
@@ -280,6 +290,15 @@ p {
 }
 .education-div {
   text-align: left; }
+
+.designation {
+  font-size: 1.5rem!important;
+}
+.span-section {
+  font-size: 18px!important; }
+.sectionwise-headings {
+  font-size: 1.75rem!important;
+}
 
 hr {
   -webkit-box-sizing: content-box;
