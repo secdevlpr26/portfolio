@@ -292,12 +292,12 @@ p {
   text-align: left; }
 
 .designation {
-  font-size: 1.5rem!important;
+  font-size: 1.5rem;
 }
 .span-section {
-  font-size: 18px!important; }
+  font-size: 18px; }
 .sectionwise-headings {
-  font-size: 1.75rem!important;
+  font-size: 1.75rem;
 }
 
 hr {
