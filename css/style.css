@@ -151,7 +151,7 @@ p {
 .sectionwise-headings {
   font-size: 1.65rem!important;
 }
-.education-section { margin-top: 0px; }
+.education-section { margin-top: 0px!important; }
 .ftco-footer-social {
   display: flex!important; }
 .projects-header {
