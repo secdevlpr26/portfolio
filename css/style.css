@@ -122,7 +122,7 @@ body {
  .cl-go-top a {
   display: none;  }
   .cl-go-top a i {
-  display: none;  }
+  display: none; }
   .cl-go-top a:hover,
 .cl-go-top a:focus {
   display: none; }
@@ -131,16 +131,16 @@ body {
 .cl-go-top::after {
   display: none;  }
 .menu-is-open .cl-go-top {
-  display: none;  }
+  display: none; }
 .col-md-4 {
-  display: none;  }
+  display: none; }
 p {
   font-size: 15px; }
 .heading {
   font-size: 1.5rem; }
 h3 {
   font-size: 1.5rem; }
-h5 {
+h4, h5 {
   font-size: 1rem; }
 body {
    height : 100%;
@@ -217,7 +217,68 @@ body {
 .menu-is-open .cl-go-top {
   display: none;
 }
+/* ------------------------------------------------------------------- 
+ * ## Skill section
+ * ------------------------------------------------------------------- */
 
+.skill-div {
+  overflow-x: hidden!important; 
+  text-align: left!important; }
+
+.skill-ul {
+  display: inline-block!important;
+  list-style: none;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding-right: 10px;
+  padding-left: 10px; }
+
+.skill-icon-ul {
+  margin-top: 1rem!important;
+}
+.skill-span {
+  padding-left: 15px!important;
+}
+.skill-li {
+  display: -webkit-box!important; }
+
+.skill-text {
+  font-color: #fff;
+  opacity: 0.8; }
+/* ------------------------------------------------------------------- 
+ * ## Projects section
+ * ------------------------------------------------------------------- */
+.projects-uppercase {
+  text-transform: uppercase; }
+
+.projects-header {
+  white-space: normal;
+  text-align: left!important;
+  margin-left: auto!important;
+  margin-right: auto!important;
+}
+/* ------------------------------------------------------------------- 
+ * ## Publications section
+ * ------------------------------------------------------------------- */
+.works-header {
+  padding-bottom: 0px!important;
+  margin-bottom: 0px!important;
+}
+.papers-text {
+  text-align: left;
+  color: #8C8C8C;
+}
+/* ------------------------------------------------------------------- 
+ * ## Education section
+ * ------------------------------------------------------------------- */
+.graduate-text {
+  white-space: normal;
+  text-align: left!important;
+  margin-left: auto!important;
+  margin-right: auto!important;
+}
+.education-div {
+  text-align: left; }
 
 hr {
   -webkit-box-sizing: content-box;
