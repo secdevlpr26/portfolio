@@ -135,7 +135,8 @@ body {
 .col-md-4 .author-img {
   display: none!important; }
 p {
-  font-size: 15px!important; }
+  font-size: 15px!important;
+  margin-bottom: 0px!important; }
 .skill-text {
   font-size: 15px!important; }
 .skill-ul {
