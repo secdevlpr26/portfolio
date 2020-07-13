@@ -64,10 +64,6 @@ body {
   text-align: justify!important;
   margin-left: auto!important;
   margin-right: auto!important;
-  -webkit-hyphens: auto!important;
-  -ms-hyphens: auto!important;
-  hyphens: auto!important;
-  white-space: normal;
   background-color: #fff; }
 
 .top-container {
@@ -6359,7 +6355,7 @@ button.bg-dark:focus {
 
 .mb-5,
 .my-5 {
-  margin-bottom: 3rem !important; }
+  margin-bottom: 1rem !important; }
 
 .ml-5,
 .mx-5 {
@@ -6473,7 +6469,7 @@ button.bg-dark:focus {
 
 .pb-5,
 .py-5 {
-  padding-bottom: 3rem !important; }
+  padding-bottom: 0rem !important; }
 
 .pl-5,
 .px-5 {
@@ -8259,9 +8255,6 @@ textarea.form-control {
 
 .about-author img {
   border-radius: 50%; }
-
-.ftco-section {
-  padding: 4em 0; }
 
 .ftco-bg-dark {
   background: #3c312e; }
