@@ -1,0 +1,23 @@
+SendConfirmationEmail
+UpdatePolicyMail
+PolicyHolderAgelimit
+SpouseAgelimit
+DependentAgelimit
+CancellationMail
+
+MapPropToPolicy
+MapPolicyDetailsToCoverage
+
+SetFrenchDateForPaymentCorr
+
+
+Spouse: "0319"  "484"
+PH: "0301" "340"
+Dep: 
+
+
+MCRH
+PegaCA-Interface-Contact
+Data-Portal
+@baseclass
+

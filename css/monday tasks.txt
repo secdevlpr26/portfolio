@@ -1,0 +1,23 @@
+1. 13806 - on change of beneficiary allocation check total allocation and throw error 
+       If beneficiary allocation in beneficiary != ""
+         If totalbeneficiary allocation != 100
+            Throw error on totalbeneficiaryallocation field
+2. 13831 - null password in pre of policyholderdetails conditionally 
+        If account exists is false 
+3. 13805 - on change of dropdown and on click of remove link add an activity to perform page clear messages and call respective call dt
+       Bring checkduplicatespousebeneficiaries to on change of dropdown
+4. Beneficiary validation messages - page clear messages
+---------------------------------------------------------------------------------------------------------------------------------------
+1. About you spacing - mobile
+2. Child section tooltip
+3. Dob calender is big 
+4. Dependent Detail and remove link should be aligned
+5. Beneficiary - Equal allocation link and header space
+5. Beneficiary - Allocation and contine button space
+6. Beneficiary- allocation - percentage bar right align
+7. Cross sell- About you contents 
+8. Cross sell- Edit answer button and uw box space
+
+
+
+

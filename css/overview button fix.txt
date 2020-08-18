@@ -1,0 +1,15 @@
+padding-left: 21px;
+padding-right: 21px;
+padding-top: 7px;
+padding-bottom: 7px;
+
+height: auto!important;
+width: auto!important
+
+ShowCIOverviewPage:
+OEWEnddate layout
+stacked
+   inline
+      oewenddate
+   inline 
+      button
