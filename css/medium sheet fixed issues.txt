@@ -1,8 +1,0 @@
----OSTRA-12465 - Storefront - Facing Loading issues in Personal Medical History section in About You Page
-OSTRA-13394 - Sanity Issue May 14
-OSTRA-13368 - Admin Emails
-OSTRA-13226 - MP - Confluence and Figma related Issues - High Priority
-
-
-
-	
